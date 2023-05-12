@@ -22,7 +22,7 @@ Traffic-related air pollution exposure is an important predictor of rapid pulmon
 community material deprivation; geomarker; greenspace; medical monitoring; traffic-related air pollution.
 
 # Authors
-Emrah Gecili, Cole Brokamp, Erika Rasnick, Pedro M Afonso, Eleni-Rosalina Andrinopoulou, Judith W Dexheimer, John P Clancy, Ruth H Keogh, Yizhao Ni, Anushka Palipana, Teresa Pestian, Andrew Vancil, Grace C Zhou, Weiji Su, Christopher Siracusa, Patrick Ryan, Rhonda D Szczesniak
+Emrah Gecili, Cole Brokamp, Erika Rasnick, Pedro M Afonso, Eleni-Rosalina Andrinopoulou, Judith W Dexheimer, John P Clancy, Ruth H Keogh, Yizhao Ni, Anushka Palipana, Teresa Pestian, Andrew Vancil, **Grace C Zhou**, Weiji Su, Christopher Siracusa, Patrick Ryan, Rhonda D Szczesniak
 
 # Publishment
 https://doi.org/10.1002/ppul.26352
